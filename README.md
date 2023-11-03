@@ -29,12 +29,7 @@
             </div>
         </div>
         <header>
-           
-
-
-
-
-
+     
             <div class="container header-section flex">
                 <div class="header-left">
                     <h1>Basutosh Singh</h1>
@@ -50,13 +45,8 @@
                         My academic journey has been characterized by a strong commitment to learning, problem-solving, and personal growth.<br>
                         My curiosity and enthusiasm for exploring new concepts have led me to delve into various areas of technology.
                     </p>
-    
-    
                 </div>
             
-               
-            
-
                 <div class="footertext">
                     <div>
                       <div class="circlemarker" id="accactive" ><p>
@@ -89,7 +79,6 @@
                       </p></div>
                   </div>
                   </div>
-
 
                 <div class="header-right">
                     <img src="pic1-modified.png" alt="">
@@ -227,8 +216,6 @@
                                 <i class="fa-solid fa-house fa-2xl fix1"></i>
                                 Address</h43>
                                 <br><br><h5> Basera Colony<br>Darbhanga, Pin-846001</h5></li>
-                       
-
                     </ul>
 
                 </div>
